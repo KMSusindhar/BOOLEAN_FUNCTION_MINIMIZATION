@@ -63,11 +63,16 @@ RegisterNumber: 212223040218
 ![image](https://github.com/user-attachments/assets/d419c4e8-393d-434b-9c7c-c864aaefa30e)
 
 **RTL**
+
 ![image](https://github.com/user-attachments/assets/6849ae59-2540-43cf-bc29-f6645362ba3b)
+
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/faa0165c-8936-4563-88e4-ff3ab380a2fd)
 
+
 **Result:**
+
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 
