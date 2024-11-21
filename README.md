@@ -1,5 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
 Developed by: SUSINDHAR K M 
+
 RegisterNumber: 212223040218
 
 **AIM:**
@@ -76,6 +77,7 @@ F2
 
 
 **Output:**
+
 TIMING DIAGRAM
 
 F1
